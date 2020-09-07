@@ -1,0 +1,14 @@
+#Ignore the node_modules folders
+event-bus/node_modules/
+user/node_modules/
+QueryUser/node_modules/
+#Ignore the config.env files
+event-bus/config.env
+user/config.env
+QueryUser/config.env
+
+#ignore the .cache folder
+event-bus/.cache/
+user/.cache/
+QueryUser/.cache/
+
